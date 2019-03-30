@@ -17,6 +17,8 @@ DHT11/22(22는 소스에서 주석처리 변경 필요)
 
 Arudino IDE
 
+5옴크기 LED(HW-479)
+
 ===================ENGLISH===================
 
 Source That make Arduino Thermometer.
@@ -31,4 +33,6 @@ I2C LCD(128x32(0.91In) Or 128X64(0.96In)
 DHT11/22(22 Need Remarking)
 
 Arudino IDE
+
+5-
 
