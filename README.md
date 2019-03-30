@@ -28,7 +28,7 @@ Arduino(I recommend Nano,Micro,Pro Mini to Make Smaller)
 
 I2C LCD(128x32(0.91In) Or 128X64(0.96In)
 
-DHT11/22(22는 Need Remarking)
+DHT11/22(22 Need Remarking)
 
 Arudino IDE
 
