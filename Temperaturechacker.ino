@@ -1,3 +1,5 @@
+//source By woorirang(HoDoRi)
+//우리랑 제작
 int redpin = 11;
 int greenpin = 10;
 int bluepin = 9;
